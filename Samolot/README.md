@@ -1,7 +1,7 @@
 # Samolot
 ##### Bajtockie Linie Lotnicze wzbogaciły swoją flotę o nowy model samolotu. W samolocie tym jest n1 rzędów miejsc 
-##### siedzących w klasie biznesowej oraz n2 rzędów w klasie ekonomicznej. W klasie biznesowej każdy rząd ma k1 miejsc
-##### siedzących, a w klasie ekonomicznej — k2 miejsc.
+siedzących w klasie biznesowej oraz n2 rzędów w klasie ekonomicznej. W klasie biznesowej każdy rząd ma k1 miejsc
+siedzących, a w klasie ekonomicznej — k2 miejsc.
 
 ### Zadanie
 #### Napisz program, który:
